@@ -1,0 +1,40 @@
+ div{
+   margin: auto;
+   width: 30%;
+}
+h1{
+    background: rgb(255, 255, 255);text-align: left;
+    text-align: center;
+}
+a{
+    background-color: aqua;
+    padding: 0px 100px;
+}
+
+h3{
+    text-align: left;
+}
+    
+
+p{
+    float: left;
+    width: 40%;
+    padding: 0px 1%;
+    text-align: left;
+}
+nav a{
+    padding: 0px 50px;
+    margin-bottom: 50px;
+}
+nav a:hover{
+    background-color: rgb(85, 3, 33);
+}
+nav{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+h3{
+    text-align: center;
+}
