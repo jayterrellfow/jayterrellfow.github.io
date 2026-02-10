@@ -1,0 +1,62 @@
+
+.right{
+    float: right;
+    
+}
+.trending a{
+    word-spacing: 30%;
+    color: black;
+    
+}
+section.col-1{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+section.col-2{
+    float: left;
+    text-align: center;
+    width: 40%;
+}
+section.col-3{
+    float: left;
+    width: 30%;
+    text-align: center;
+   
+}
+div.trending{
+    text-align: center;
+}
+button{
+    background-color: red;
+    color:white
+}
+    div.group-item{
+          float: left;
+          
+    }
+    #cnn img, #cnn{
+        width:  50px;
+        height: 30px;
+        ;
+    }
+    hr{
+        clear: both;
+    }
+    nav *{
+        float: left;
+        font-size: 1em;
+        padding: 0.5%;
+        margin-bottom: -5;
+    }
+    section.col-1 img{
+            width: 350px;
+    }
+
+    .group img{
+        width: 200px;
+    }
+    section.col-3 img{
+        width: 350px;
+    }
+    
