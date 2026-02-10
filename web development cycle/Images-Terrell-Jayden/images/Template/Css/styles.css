@@ -1,0 +1,27 @@
+h1 {
+    color:red;
+}
+
+div {
+    background-color:orange;
+    width: 100%;
+}
+div div{
+    background-color: red;
+    width: 45%;
+    padding: 2.5%;
+    float: left;
+}
+div div div{
+    background-color: blue;
+}
+#card{
+    background-color: antiquewhite;
+    padding: 10px;
+    clear:both
+}
+.links{
+    background-color: darkgreen;
+    clear: both;
+    text-align: center;
+}

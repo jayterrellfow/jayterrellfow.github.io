@@ -1,0 +1,46 @@
+Table,th,td{
+    border: 1px solid black;
+}
+Table{
+    width: 100%;
+}
+th,td{
+    text-align: center;
+}
+thead{
+ background-color: red;
+ opacity: 1;
+}
+
+.first{
+    background-color: orange;
+    opacity: 1;
+}
+.second{
+    background-color: yellow;
+    opacity: 1;
+}
+.third{
+    background-color: green;
+    opacity: 1;
+}
+.fourth{
+    background-color: blue;
+    opacity: 1;
+}
+.fifth{
+    background-color: indigo;
+    opacity: 1;
+}
+
+.sixth{
+    background-color: purple;
+    opacity: 1;
+}
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: azure;
+}
